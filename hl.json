@@ -1,6 +1,6 @@
 [
 {
-            "league": "🏆 Champions League",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/42.png",
             "date": "Feb 23",
             "time": "1 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
@@ -20,7 +20,7 @@
 ]
 }, 
 {
-            "league": "🏆 Champions League",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/42.png",
             "date": "Feb 23",
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
@@ -40,7 +40,7 @@
 ]
 }, 
 {
-            "league": "🏆 Champions League",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/42.png",
             "date": "Feb 22",
             "time": "2 - 5",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
@@ -60,7 +60,7 @@
 ]
 }, 
 {
-            "league": "🏆 Champions League",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/42.png",
             "date": "Feb 22",
             "time": "0 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
@@ -80,7 +80,7 @@
 ]
 }, 
 {
-            "league": "🏆 Laliga",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
             "date": "Feb 21",
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
@@ -100,7 +100,7 @@
 ]
 }, 
 {
-            "league": "🏆 Serie A",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/55.png",
             "date": "Feb 21",
             "time": "2 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
@@ -120,7 +120,7 @@
 ]
 }, 
 {
-            "league": "🏆 Serie A",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/55.png",
             "date": "Feb 20",
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
@@ -140,7 +140,7 @@
 ]
 }, 
 {
-            "league": "🏆 Bundesliga",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/54.png",
             "date": "Feb 20",
             "time": "2 - 3",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
@@ -160,7 +160,7 @@
 ]
 }, 
 {
-            "league": "🏆 Premier League",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
             "date": "Feb 19",
             "time": "2 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
@@ -180,7 +180,7 @@
 ]
 },
 {
-            "league": "🏆 Serie A",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/55.png",
             "date": "Feb 19",
             "time": "0 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
@@ -200,7 +200,7 @@
 ]
 },
 {
-            "league": "🏆 Bundesliga",
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/54.png",
             "date": "Feb 19",
             "time": "4 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
