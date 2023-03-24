@@ -1,17 +1,17 @@
 [
 {
-            "league": "https://raw.githubusercontent.com/shwesinmaung/ads/main/app_logo.png",
-            "date": "Feb 23",
-            "time": "1 - 1",
-            "himg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/app_logo.png",
-            "aimg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/app_logo.png",
+            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
+            "date": "Mar 24",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
          
-             "hteam" : "Myanmar",
-            "ateam" : "Hlgi",
+             "hteam" : "Italy",
+            "ateam" : "England",
             "hllink": [
 {
-  "quality":"SD",
-         "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+  "quality":"HD",
+         "link":"https://tybt.topravideo.com/UpFiles/2023/3/23/51/251036/720p.m3u8"
 }
 ]
 }
