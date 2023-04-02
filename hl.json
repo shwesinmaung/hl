@@ -422,71 +422,7 @@
                         ]
    },
 
- {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 29",
-            "time": "2 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9730.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",
-         
-             "hteam" : "Romania",
-            "ateam" : "Belarus",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251408/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251408/360p.m3u8"
-                          }
-                        ]
-   },
-
-
-   {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 29",
-            "time": "1 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
-         
-             "hteam" : "Wales",
-            "ateam" : "Latvia",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251417/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251417/360p.m3u8"
-                          }
-                        ]
-   },
-
-
-
-   {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 29",
-            "time": "3 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8567_small.png",
-         
-             "hteam" : "Switzerland",
-            "ateam" : "Israel",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/29/42/251437/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/29/42/251437/360p.m3u8"
-                          }
-                        ]
-   },
-
-
-   {
+{
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Mar 29",
             "time": "2 - 0",
@@ -506,8 +442,7 @@
                         ]
    },
 
-
-   {
+{
             "league": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
             "date": "Mar 29",
             "time": "2 - 3",
@@ -528,44 +463,7 @@
    },
 
 
-   {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 29",
-            "time": "0 - 2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
-         
-             "hteam" : "Turkiye",
-            "ateam" : "Latvia",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251402/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251402/360p.m3u8"
-                          }
-                        ]
-   },
-     {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 28",
-            "time": "1 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
-         
-             "hteam" : "Georgia",
-            "ateam" : "Norway",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251385/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://n.topravideo.com/UpFiles/2023/3/28/42/251385/360p.m3u8"
-                          }
-                        ]
-   },
+    
    {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Mar 28",
@@ -667,48 +565,7 @@
                         ]
    },
           
-   {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 28",
-            "time": "0 - 2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/49437_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_xsmall.png",
-         
-             "hteam" : "Montenegro",
-            "ateam" : "Serbia",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/27/42/251327/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/27/42/251327/720p.m3u8"
-                          }
-                        ]
-   },
-
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 28",
-            "time": "3 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8565_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10150_xsmall.png",
-         
-             "hteam" : "Hungary",
-            "ateam" : "Bulgaria",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/27/42/251318/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/27/42/251318/720p.m3u8"
-                          }
-                        ]
-   },
-          
-   
-{
+ {
             "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
             "date": "Mar 27",
             "time": "0 -2",
@@ -750,66 +607,6 @@
 
 {
             "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
-            "date": "Mar 27",
-            "time": "0 -1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
-         
-             "hteam" : "Northern Ireland",
-            "ateam" : "Finland",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251268/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251268/360p.m3u8"
-                          }
-                        ]
-   },
-
-{
-            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
-            "date": "Mar 27",
-            "time": "2 -0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10106_small.png",
-         
-             "hteam" : "Slovakia",
-            "ateam" : "Bosnia and Herzegovina",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251267/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251267/360p.m3u8"
-                          }
-                        ]
-   },
-
-{
-            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
-            "date": "Mar 26",
-            "time": "0 -7",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
-         
-             "hteam" : "Liechten-stein",
-            "ateam" : "Iceland",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251240/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251240/360p.m3u8"
-                          }
-                        ]
-   },
-
-{
-            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
             "date": "Mar 26",
             "time": "2 -0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
@@ -828,48 +625,7 @@
                         ]
    },
             
-   {
-            
-            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
-            "date": "Mar 26",
-            "time": "2 -0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
-         
-             "hteam" : "Slovenia",
-            "ateam" : "San Marino",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251237/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251237/360p.m3u8"
-                          }
-                        ]
-   },
-
-{
-            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
-            "date": "Mar 26",
-            "time": "3 -2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
-         
-             "hteam" : "Kazakhstan",
-            "ateam" : "Denmark",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251226/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://trt.topravideo.com/UpFiles/2023/3/26/42/251226/360p.m3u8"
-                          }
-                        ]
-   },
-
-{
+ {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Mar 26",
             "time": "2 - 0",
@@ -909,26 +665,6 @@
                        ]
     },
 
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 26",
-            "time": "1 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_xsmall.png",
-         
-             "hteam" : "Croatia",
-            "ateam" : "Wales",
-            "hllink": [
-                      {   "quality":"HD",
-                          "link":"https://tybt.topravideo.com/UpFiles/2023/3/25/51/251187/720p.m3u8"
-                              },
-
-                       {  "quality":"SD",
-                          "link":"https://tybt.topravideo.com/UpFiles/2023/3/25/51/251187/720p.m3u8"
-                               }
-                       ]
-  },
-            
 
 {
             "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
@@ -950,28 +686,6 @@
                        ]
   },
             
-    
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 25",
-            "time": "3 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_xsmall.png",
-         
-             "hteam" : "Scotland",
-            "ateam" : "Cyprus",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://tybt.topravideo.com/UpFiles/2023/3/25/42/251160/720p.m3u8"
-                              },
-
-                       {  "quality":"SD",
-                          "link":"https://tybt.topravideo.com/UpFiles/2023/3/25/42/251160/720p.m3u8"
-                               }
-                       ]
-    },
-            
-            
 {
             "league": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
             "date": "Mar 25",
@@ -992,25 +706,6 @@
                         ]
     },
             
-{
-            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-            "date": "Mar 24",
-            "time": "1 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
-         
-             "hteam" : "Japan",
-            "ateam" : "Uruguay",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://tybt.topravideo.com/UpFiles/2023/3/24/42/251072/720p.m3u8"
-                         },
-
-                      {  "quality":"SD",
-                         "link":"https://tybt.topravideo.com/UpFiles/2023/3/24/42/251072/360p.m3u8"
-                          }
-                        ]
-   },
 
 {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/77.png",
@@ -1030,48 +725,6 @@
                           "link":"https://tybt.topravideo.com/UpFiles/2023/3/24/42/251068/360p.m3u8"
                               }
                        ]
-    },
-      
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/77.png",
-            "date": "Mar 24",
-            "time": "2 - 2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
-         
-             "hteam" : "South Korea",
-            "ateam" : "Colombia",
-            "hllink": [
-                      {   "quality":"HD",
-                          "link":"https://tybt.topravideo.com/UpFiles/2023/3/24/42/251071/720p.m3u8"
-                              },
-
-                       {  "quality":"SD",
-                          "link":"https://tybt.topravideo.com/UpFiles/2023/3/24/42/251071/360p.m3u8"
-                               }
-                       ]
-  },      
- 
-{
-           
-             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Mar 23",
-            "time": "1 - 2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
-         
-             "hteam" : "Kazakhstan",
-            "ateam" : "Slovenia",
-            "hllink": [
-                      {  "quality":"HD",
-                         "link":"https://tybt.topravideo.com/UpFiles/2023/3/23/42/251016/720p.m3u8"
-                              },
-
-                       {  "quality":"SD",
-                          "link":"https://tybt.topravideo.com/UpFiles/2023/3/23/42/251016/360p.m3u8"
-                               }
-                       ]
     }
-            
 
   ]
