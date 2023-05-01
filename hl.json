@@ -1,26 +1,6 @@
 [
    
-   {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-            "date": "May 1",
-            "time": "2-5",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-         
-             "hteam" : "Valladolid",
-            "ateam" : "AT KO",
-            "hllink": [
-                       {  "quality":"SD",
-                         "link":"https://sports01.livnvess.com/live/stream-122774_lhd.flv?txSecret=b1263301fdfbf8ccd691d7d84b39dcb6&txTime=64502d5f"
-                         },
 
-                      {  "quality":"HD",
-                         "link":"https://sports01.livnvess.com/live/stream-122774_lhd.flv?txSecret=b1263301fdfbf8ccd691d7d84b39dcb6&txTime=64502d5f"
-                          }
-               
-    
-                          ]
-    },
    
    
    {
