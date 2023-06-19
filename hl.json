@@ -1,7 +1,7 @@
 [ {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png",
             "date": "June 19",
-            "time": " 4-5(PEN) ",
+            "time": " 4-5",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
             "hteam" :  "Croatia",
@@ -33,7 +33,8 @@
                           }
     
                           ]
-    },         {
+    },     
+{
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 18",
             "time": " 3-0 ",
