@@ -1,13 +1,5 @@
 [
-            
-            
-            
-            
-            
-            
-            
-            
-             {
+ {
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 20",
             "time": " 1-0 ",
@@ -25,7 +17,7 @@
     
                           ]
     },     
-             {
+{
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 20",
             "time": " 7-0 ",
@@ -43,7 +35,7 @@
     
                           ]
     },     
-             {
+ {
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 20",
             "time": " 2-0 ",
@@ -61,7 +53,7 @@
     
                           ]
     },     
-             {
+  {
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 20",
             "time": " 1-1 ",
@@ -79,8 +71,7 @@
     
                           ]
     },     
-            
-             {
+  {
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 20",
             "time": " 2-2 ",
@@ -98,7 +89,7 @@
     
                           ]
     },     
-             {
+   {
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 19",
             "time": " 1-0 ",
@@ -116,7 +107,7 @@
     
                           ]
     },     
-             {
+  {
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 19",
             "time": " 6-0 ",
@@ -134,8 +125,7 @@
     
                           ]
     },     
-            
-             {
+ {
             "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "June 19",
             "time": " 0-2 ",
@@ -153,7 +143,7 @@
     
                           ]
     },     
-            {
+ {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png",
             "date": "June 19",
             "time": " 4-5(PEN)",
@@ -243,8 +233,7 @@
     
                           ]
     },    
-            
-         {
+ {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "June 18",
             "time": " 0-3 ",
@@ -258,241 +247,6 @@
                          },
                        {  "quality":"SD",
                          "link":"https://unrf.topravideo.com/UpFiles/2023/6/17/42/257708/720p.m3u8"
-                          }
-    
-                          ]
-    },      
-       {
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 1-2 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
-            "hteam" :  "Norway",
-            "ateam" : "Scotland",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/17/42/257650/720p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/17/42/257650/360p.m3u8"
-                          }
-    
-                          ]
-    },        
-            
-{            
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
-            "date": "June 17",
-            "time": " 1-0 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_xsmall.png",
-            "hteam" :  " Poland",
-            "ateam" : " Germany",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/51/257579/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/51/257579/360p.m3u8"
-                          }
-    
-                          ]
-    },   
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 2-4 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
-            "hteam" :  " Wales",
-            "ateam" : " Armenia",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257575/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257575/360p.m3u8"
-                          }
-    
-                          ]
-    },   
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 0-3 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265.png",
-            "hteam" :  "San Marino ",
-            "ateam" : "Kazakhstan ",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/17/42/257612/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/17/42/257612/360p.m3u8"
-                          }
-    
-                          ]
-    },     
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 2-3 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png",
-            "hteam" :  " North Macedonia",
-            "ateam" : "Ukraine",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257588/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257588/360p.m3u8"
-                          }
-    
-                          ]
-    },    
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 0-4 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-            "hteam" :  " Malta",
-            "ateam" : "England",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257571/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257571/360p.m3u8"
-                          }
-    
-                          ]
-    },   
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": "2 3- ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
-            "hteam" :  " Latvia",
-            "ateam" : "Turkiye ",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257591/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257591/360p.m3u8"
-                          }
-    
-                          ]
-    },    
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 2-1 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
-            "hteam" :  " Greece",
-            "ateam" : "Ireland ",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257572/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257572/360p.m3u8"
-                          }
-    
-                          ]
-    },    
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 0-3 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/507764.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-            "hteam" :  " Gibraltar",
-            "ateam" : " France",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257567/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257567/360p.m3u8"
-                          }
-    
-                          ]
-    },   
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 1-0 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259.png",
-            "hteam" :  "Denmark ",
-            "ateam" : "Northern Ireland ",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257584/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257584/360p.m3u8"
-                          }
-    
-                          ]
-    },    
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 1-2 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8567.png",
-            "hteam" :  " Belarus",
-            "ateam" : " Israel",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/17/42/257613/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/17/42/257613/360p.m3u8"
-                          }
-    
-                          ]
-    },    
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 17",
-            "time": " 1-2 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-            "hteam" :  "Andorra ",
-            "ateam" : "Switzerland",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257586/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257586/360p.m3u8"
-                          }
-    
-                          ]
-    },     
-{
-            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 16",
-            "time": " 2-0 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png",
-            "hteam" :  "Filand ",
-            "ateam" : "Slovenia ",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257546/360p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://unrf.topravideo.com/UpFiles/2023/6/16/42/257546/360p.m3u8"
                           }
     
                           ]
