@@ -27,10 +27,10 @@
             "ateam" : "Colombia",
             "hllink": [
                        {  "quality":"HD",
-                         "link":"https://proxy-26.sg1.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzo7o0FHeTah3m8AleLSEBCAXkF5Q1T8obchVbP5CXKm0RajmQ_jHhxzmyIv17tYZqzv45XETSL8SUxijsIt5-SM)/video/208/445/520544802_mp4_h264_aac_hq_3.m3u8#cell=sg1"
+                         "link":"https://dmxleo.dailymotion.com/cdn/manifest/video/x8lx2c9.m3u8?auth=x&cs=dmx_Q4dZZAvpXpftBDdqMtPej4Rdz-jMrI87PsRyfHoD3I2nPtB3HPdx7Mopj3pXaL42TznriGAWSc3T68OS_wVRbQgLjfD2Nx-wMjo5iyCRNLM"
                          },
                        {  "quality":"SD",
-                         "link":"https://proxy-26.sg1.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzo7o0FHeTah3m8AleLSEBCAXkF5Q1T8obchVbP5CXKm0RajmQ_jHhxzmyIv17tYZqzv45XETSL8SUxijsIt5-SM)/video/208/445/520544802_mp4_h264_aac_hq_3.m3u8#cell=sg1"
+                         "link":"https://dmxleo.dailymotion.com/cdn/manifest/video/x8lx2c9.m3u8?auth=x&cs=dmx_Q4dZZAvpXpftBDdqMtPej4Rdz-jMrI87PsRyfHoD3I2nPtB3HPdx7Mopj3pXaL42TznriGAWSc3T68OS_wVRbQgLjfD2Nx-wMjo5iyCRNLM"
                           }
     
                           ]
