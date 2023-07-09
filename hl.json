@@ -2,111 +2,19 @@
 
 
 {
-            "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 21",
-            "time": " 0-1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-            "hteam" :  "Iceland",
-            "ateam" : "Portugal",
+                "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/288.png",
+            "date": "July 8",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8505_small.png",
+            "hteam" : "England U21",
+            "ateam" : "Spain U21",
             "hllink": [
                        {  "quality":"HD",
-                         "link":"https://nmm.topravideo.com/UpFiles/2023/6/20/42/257954/720p.m3u8"
+                         "link":"https://nlii.topravideo.com/UpFiles/2023/7/8/42/258574/720p.m3u8"
                          },
                        {  "quality":"SD",
-                         "link":"https://nmm.topravideo.com/UpFiles/2023/6/20/42/257954/360p.m3u8"
-                          }
-    
-                          ]
-    },     
-{
-            "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 21",
-            "time": " 3-1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_small.png",
-            "hteam" :  "Norway",
-            "ateam" : "Cyprus",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://nmm.topravideo.com/UpFiles/2023/6/20/42/257961/720p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://nmm.topravideo.com/UpFiles/2023/6/20/42/257961/360p.m3u8"
-                          }
-    
-                          ]
-    },     
-{
-            "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 21",
-            "time": " 2-0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_small.png",
-            "hteam" :  "Scotland",
-            "ateam" : "Georgia",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://nmm.topravideo.com/UpFiles/2023/6/21/42/257995/720p.m3u8"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://nmm.topravideo.com/UpFiles/2023/6/21/42/257995/720p.m3u8"
-                          }
-    
-                          ]
-    },     
-
-            
-{
-            "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
-            "date": "June 21",
-            "time": " 2-4",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
-            "hteam" :  "Brazil",
-            "ateam" : "Senegal",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://proxy-26.sg1.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzo7o0FHeTah3m8AleLSEBCAXkF5Q1T8obchVbP5CXKm0RajmQ_jHhxzmyIv17tYZqzv45XETSL8SUxijsIt5-SM)/video/208/445/520544802_mp4_h264_aac_hq_3.m3u8#cell=sg1"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://proxy-26.sg1.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzo7o0FHeTah3m8AleLSEBCAXkF5Q1T8obchVbP5CXKm0RajmQ_jHhxzmyIv17tYZqzv45XETSL8SUxijsIt5-SM)/video/208/445/520544802_mp4_h264_aac_hq_3.m3u8#cell=sg1"
-                          }
-    
-                          ]
-    },     
- {
-            "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
-            "date": "June 21",
-            "time": " 0-2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
-            "hteam" :  "Germany",
-            "ateam" : "Colombia",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://dmxleo.dailymotion.com/cdn/manifest/video/x8lx2c9.m3u8?auth=x&cs=dmx_LDrUfGUP90D80PGsXokk0Y1qIHt9AmYwahLV6cZeZoUFgnyQp-rf9j08TSeyBOvSSdddrJSYCRXrT44IldWawB_6iIhRJAS1rIl8XnryBzw"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://dmxleo.dailymotion.com/cdn/manifest/video/x8lx2c9.m3u8?auth=x&cs=dmx_LDrUfGUP90D80PGsXokk0Y1qIHt9AmYwahLV6cZeZoUFgnyQp-rf9j08TSeyBOvSSdddrJSYCRXrT44IldWawB_6iIhRJAS1rIl8XnryBzw"
-                          }
-    
-                          ]
-    },     
-  {
-            "league" :"https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "June 21",
-            "time": " 3-2 ",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png",
-            "hteam" :  "Moldova",
-            "ateam" : "Poland",
-            "hllink": [
-                       {  "quality":"HD",
-                         "link":"https://proxy-18.sg1.dailymotion.com/sec(mjtB_ZvDpmhsRkIqjWJ3qfAGd82HjXv7ZiUIQDQ_INLSP92IjT2eQnT4tSsrWbrlhLhhpv2S7u4hsObTp40g8bD-n1Ey2dUd8a27WqQVcLo)/video/427/445/520544724_mp4_h264_aac_hq_3.m3u8#cell=sg1"
-                         },
-                       {  "quality":"SD",
-                         "link":"https://proxy-18.sg1.dailymotion.com/sec(mjtB_ZvDpmhsRkIqjWJ3qfAGd82HjXv7ZiUIQDQ_INLSP92IjT2eQnT4tSsrWbrlhLhhpv2S7u4hsObTp40g8bD-n1Ey2dUd8a27WqQVcLo)/video/427/445/520544724_mp4_h264_aac_hq_3.m3u8#cell=sg1"
+                         "link":"https://nlii.topravideo.com/UpFiles/2023/7/8/42/258574/360p.m3u8"
                           }
     
                           ]
