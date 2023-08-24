@@ -1,4 +1,66 @@
-[
+[ 
+{
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+            "date": "Aug 24",
+            "time": "2 - 1",
+         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png",
+        
+             "hteam" : "Braga",
+             "ateam" : "Panathinaikos",
+             "hllink": [
+                     {
+                     "quality":"SD",
+                     "link":"https://lmk.vstreamnnetwork.com/UpFiles/2023/8/23/42/261187/720p.m3u8"
+                     },
+                     {
+                     "quality":"HD",
+                     "link":"https://lmk.vstreamnnetwork.com/UpFiles/2023/8/23/42/261187/720p.m3u8"
+                     }
+                     ]
+                     }, 
+        {
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+            "date": "Aug 24",
+            "time": "0 - 0",
+         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10192.png",
+        
+             "hteam" : "Maccabi Haifa",
+             "ateam" : "Young Boys",
+             "hllink": [
+                     {
+                     "quality":"SD",
+                     "link":"https://lmk.vstreamnnetwork.com/UpFiles/2023/8/23/42/261186/720p.m3u8"
+                     },
+                     {
+                     "quality":"HD",
+                     "link":"https://lmk.vstreamnnetwork.com/UpFiles/2023/8/23/42/261186/720p.m3u8"
+                     }
+                     ]
+                     },
+        
+        {
+            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+            "date": "Aug 24",
+            "time": "2 - 3",
+         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
+        
+             "hteam" : "Molde",
+             "ateam" : "Galatasaray",
+             "hllink": [
+                     {
+                     "quality":"SD",
+                     "link":"https://lmk.vstreamnnetwork.com/UpFiles/2023/8/23/42/261182/360p.m3u8"
+                     },
+                     {
+                     "quality":"HD",
+                     "link":"https://lmk.vstreamnnetwork.com/UpFiles/2023/8/23/42/261182/360p.m3u8"
+                     }
+                     ]
+                     },
+       
         {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
             "date": "Aug 22",
@@ -7,18 +69,18 @@
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
         
              "hteam" : "Crystal Palace",
-            "ateam" : "Arsenal",
-            "hllink": [
-{
-  "quality":"SD",
-         "link":"https://kl.vstreamnnetwork.com/UpFiles/2023/8/22/51/261119/360p.m3u8"
-},
-{
-  "quality":"HD",
-         "link":"https://kl.vstreamnnetwork.com/UpFiles/2023/8/22/51/261119/720p.m3u8"
-}
-]
-},
+             "ateam" : "Arsenal",
+             "hllink": [
+                     {
+                     "quality":"SD",
+                     "link":"https://kl.vstreamnnetwork.com/UpFiles/2023/8/22/51/261119/360p.m3u8"
+                     },
+                     {
+                     "quality":"HD",
+                     "link":"https://kl.vstreamnnetwork.com/UpFiles/2023/8/22/51/261119/720p.m3u8"
+                     }
+                     ]
+                     },
        {
             "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/55.png",
             "date": "Aug 22",
