@@ -2,6 +2,26 @@
     {
     "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
     "date": "Sep 8",
+    "time": "4-2",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259.png",
+        
+    "hteam" : "Slovenia",
+    "ateam" : "Northern Ireland",
+    "hllink": [
+            {
+            "quality":"SD",
+            "link":"https://too.vstreamnnetwork.com/UpFiles/2023/9/7/42/262377/360p.m3u8"
+            },
+            {
+            "quality":"HD",
+             "link":"https://too.vstreamnnetwork.com/UpFiles/2023/9/7/42/262377/360p.m3u8"
+            }
+            ]
+},
+    {
+    "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
+    "date": "Sep 8",
     "time": "2-0",
     "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
     "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
