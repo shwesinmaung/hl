@@ -1,4 +1,43 @@
-[
+[{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+"date": "Sep 17",
+"time": "5-0",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+
+"hteam" : "Barcelona",
+"ateam" : "Real betis",
+"hllink": [
+            {
+            "quality":"SD",
+            "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/16/51/263165/720p.m3u8"
+            },
+            {
+            "quality":"HD",
+             "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/16/51/263165/720p.m3u8"
+            }
+            ]
+ },
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"date": "Sep 17",
+"time": "2-2",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+
+"hteam" : "Genoa",
+"ateam" : "Napoli",
+"hllink": [
+            {
+            "quality":"SD",
+            "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/16/42/263149/360p.m3u8"
+            },
+            {
+            "quality":"HD",
+             "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/16/42/263149/360p.m3u8"
+            }
+            ]
+ },
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
 "date": "Sep 16",
