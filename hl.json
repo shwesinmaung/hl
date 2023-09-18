@@ -1,7 +1,27 @@
-[  {
+[ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"date": "Sep 19",
+"time": "0-0",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
+
+"hteam" : "Verona",
+"ateam" : "Bologna",
+"hllink": [
+            {
+            "quality":"SD",
+            "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/42/263330/720p.m3u8"
+            },
+            {
+            "quality":"HD",
+             "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/42/263330/720p.m3u8"
+            }
+            ]
+ },
+{
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
 "date": "Sep 19",
-"time": "1:15 AM",
+"time": "1-1",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
 
@@ -22,7 +42,7 @@
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
 "date": "Sep 19",
-"time": "1:15 AM",
+"time": "0-3",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
 "isLive":true,
@@ -43,7 +63,7 @@
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
 "date": "Sep 19",
-"time": "1:30 AM",
+"time": "2-4",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
 
