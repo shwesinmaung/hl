@@ -7,18 +7,38 @@
 
 "hteam" : "Nottm Forest",
 "ateam" : "Burnley",
-
+"hllink": [
+            {
+            "quality":"SD",
+            "link":""https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/51/263329/720p.m3u8"
+            },
+            {
+            "quality":"HD",
+             "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/51/263329/720p.m3u8"
+            }
+            ]
+ },
 
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
 "date": "Sep 19",
 "time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
 "isLive":true,
-"hteam" : "Hellas Verona",
-"ateam" : "Bologna",
-
+"hteam" : "Salernitana",
+"ateam" : "Torino",
+"hllink": [
+            {
+            "quality":"SD",
+            "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/42/263307/720p.m3u8"
+            },
+            {
+            "quality":"HD",
+             "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/42/263307/720p.m3u8"
+            }
+            ]
+ },
 
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
@@ -29,7 +49,17 @@
 
 "hteam" : "Granada",
 "ateam" : "Girona",
-
+"hllink": [
+            {
+            "quality":"SD",
+            "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/42/263325/720p.m3u8"
+            },
+            {
+            "quality":"HD",
+             "link":"https://nhf.vstreamnnetwork.com/UpFiles/2023/9/18/42/263325/720p.m3u8"
+            }
+            ]
+ },
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
 "date": "Sep 18",
